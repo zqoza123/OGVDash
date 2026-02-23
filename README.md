@@ -3,8 +3,7 @@
 A simple, browser-based options Greeks dashboard.
 
 I built this to make options behavior easier to *see* instead of just reading numbers in a table. You can move inputs like spot, vol, rates, and time, then instantly see how Greeks and strategy P&L shift. 
-This project was originally inspired by Andy Nguyen's 2008 QuantNet post challenging users to replicate a euro-options calculator. But I've decided to modernized and add a bit of my own twists from my own 
-experience with options and greeks. : )
+This project was originally inspired by Andy Nguyen's 2008 QuantNet post challenging users to replicate a euro-options calculator. But I've decided to modernize while adding a bit of my own twists based on my own experience with options and greeks. : )
 
 ## What it does
 - Shows Greek surfaces across strike and expiry
